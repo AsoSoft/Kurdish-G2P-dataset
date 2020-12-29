@@ -1,5 +1,6 @@
 # Kurdish-G2P-dataset
 Datasets for evaluation of Central Kurdish Grapheme-to-Phoneme Conversion systems
+[![DOI](https://zenodo.org/badge/172930780.svg)](https://zenodo.org/badge/latestdoi/172930780)
 
 ## Format
 Central Kurdish words in Standard Arabic script and its corresponding phoneme string separated by tab character. Syllable start is indicated by full stop. For example:
